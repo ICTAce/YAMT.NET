@@ -15,17 +15,17 @@ A cutting-edge, open-source template for building full-stack .NET applications w
 - Traefik
 
 ## Back-end
-- ASP.NET Core 9.0
-- Entity Framework Core 9
-- PostgreSql 17
-- MediatR 12.4
-- AutoMapper 13
+- ASP.NET Core
+- Entity Framework Core
+- PostgreSql
+- MediatR
+- AutoMapper
 - FluentValidation
-- gRPC
+- gRPC (Code First)
 
 ## Front-end
 - Blazor WebAssembly
-- SyncFusion
+- SyncFusion.Blazor
 - Blazored.LocalStorage
 
 ## Analyser
@@ -36,6 +36,6 @@ A cutting-edge, open-source template for building full-stack .NET applications w
 
 ## Test
 - SpecFlow
-- Bogus 35.6
+- Bogus
 - xUnit
-- FluentAssertions 7.0
+- FluentAssertions
