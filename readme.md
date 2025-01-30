@@ -9,13 +9,19 @@ A cutting-edge, open-source template for building full-stack .NET applications w
 - Docker Compose (for local run)
 - Kubernetes
 - Helm
+- OpenTelemetry
+- Cloudflared
+- SigNoz
+- Traefik
 
 ## Back-end
 - ASP.NET Core 9.0
 - Entity Framework Core 9
+- PostgreSql 17
 - MediatR 12.4
 - AutoMapper 13
 - FluentValidation
+- gRPC
 
 ## Front-end
 - Blazor WebAssembly
@@ -26,15 +32,10 @@ A cutting-edge, open-source template for building full-stack .NET applications w
 - AsyncFixer
 - Meziantou.Analyzer
 - Roslynator.Analyzers
+- Microsoft.CodeCoverage
 
 ## Test
 - SpecFlow
 - Bogus 35.6
 - xUnit
 - FluentAssertions 7.0
-
-## Others
-- gRPC
-- Microsoft.CodeCoverage
-- PostgreSql
-- OpenTelemetry
